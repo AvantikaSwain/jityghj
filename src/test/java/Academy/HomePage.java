@@ -81,6 +81,7 @@ public class HomePage extends base{
 		data[1][1]="456788";
 		data[1][2]= "Non restricted user";
 		
+		System.out.println("avnii");
 		return data;
 		
 		
