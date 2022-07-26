@@ -51,7 +51,7 @@ public class validateTitle extends base{
 	@AfterTest
 	public void teardown()
 	{
-		System.out.println("avnii");
+		
 		driver.close();
 	
 		
